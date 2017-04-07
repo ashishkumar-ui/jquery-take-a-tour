@@ -17,8 +17,8 @@ some content</div>
 > * ##### data-title: 
 > Title text of the modal for the tour point
 
-##### data-desc: 
-Description text for the modal for the tour point
+> * ##### data-desc: 
+> Description text for the modal for the tour point
 
 ## JS Initialization
 ```javascript
