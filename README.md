@@ -12,7 +12,7 @@ some content</div>
 
 #### HTML Code details
 ##### data-index: 
-Index of the Tour Point. Tour modal will follow the sequence of it
+> > Index of the Tour Point. Tour modal will follow the sequence of it
 
 ##### data-title: 
 Title text of the modal for the tour point
