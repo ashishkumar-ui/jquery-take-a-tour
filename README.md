@@ -14,8 +14,8 @@ some content</div>
 ##### data-index: 
 > > Index of the Tour Point. Tour modal will follow the sequence of it
 
-##### data-title: 
-Title text of the modal for the tour point
+> * ##### data-title: 
+> Title text of the modal for the tour point
 
 ##### data-desc: 
 Description text for the modal for the tour point
